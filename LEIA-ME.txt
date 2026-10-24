@@ -1,0 +1,20 @@
+FAZBEAR ARCHIVES — SITE FNaF
+================================
+
+Como abrir:
+1. Extraia a pasta fnaf_site.zip.
+2. Mantenha index.html, style.css e a pasta imagens juntos.
+3. Abra index.html no navegador.
+
+Arquivos:
+- index.html: estrutura HTML5 e textos do site.
+- style.css: aparência escura, responsividade e efeitos.
+- imagens/palco-fnaf.jpg: imagem principal do topo (thumbnail/hero).
+- imagens/criancas-misteriosas.jpg: painel da cronologia.
+- imagens/animatronicos-principais.jpg: painel de personagens.
+- imagens/animatronicos-outros.jpg: imagem extra fornecida, mantida na pasta.
+- imagens/favicon.png: ícone da aba.
+
+O site usa somente HTML e CSS para sua estrutura e estilo, sem JavaScript.
+A lista de personagens é uma seleção ampla, não uma lista literalmente completa de todas as variantes de todos os jogos, livros e DLCs.
+Alguns elementos da lore de FNaF são ambíguos e aparecem descritos como interpretações quando apropriado.
